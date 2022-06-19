@@ -1,7 +1,7 @@
 FROM python:alpine3.16
 
 # set the working directory in the container
-WORKDIR /Users/fares/Desktop/DevOps/TP1
+WORKDIR D:\Documents\S8\TP3-Jacques-Tellier
 
 COPY TP1.py ./
 
